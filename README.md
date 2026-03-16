@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Hi, I'm <strong>Abhi</strong> 👋</h1>
+  <h1>Hi, I'm <strong>Abhishek Bansal</strong> 👋</h1>
   <h3>A Passionate Fullstack &amp; Web Developer 🌍</h3>
 
   <a href="https://github.com/AbhiBofficial">
