@@ -1,9 +1,9 @@
 <div align="center">
   <h1>Hi, I'm <strong>Abhishek Bansal</strong> 👋</h1>
-  <h3>A Passionate Fullstack &amp; Web Developer 🌍</h3>
+  <h3>A Passionate Cybersecurity Enthusiast &amp; Ethical Hacker 🛡️</h3>
 
   <a href="https://github.com/AbhiBofficial">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&color=00BFFF&width=600&lines=Fullstack+Developer;Web+Enthusiast;Always+Learning;Let's+Build+Something+Awesome" alt="Typing SVG">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&color=00FF00&width=600&lines=Ethical+Hacker;Penetration+Tester;Cybersecurity+Enthusiast;Securing+the+Web" alt="Typing SVG">
   </a>
 
   <p>
@@ -15,9 +15,9 @@
 
 ### 📝 About Me
 
-- 🔭 I’m currently working on **my portfolio and open-source projects**
-- 🌱 I’m learning **modern web development and best practices**
-- 💬 Ask me about **JavaScript, web apps, and UI/UX**
+- 🔭 I’m currently working on **CTF challenges and open-source security tools**
+- 🌱 I’m learning **penetration testing, network security, and advanced malware analysis**
+- 💬 Ask me about **Cybersecurity, Information Security, and Ethical Hacking**
 - 📫 Reach me at: **abhi@abhibofficial.com**
 - 👨‍💻 Check out my portfolio: [portfolio](https://abhibofficial.github.io/portfolio)
 
@@ -49,16 +49,13 @@
 
 <p align="center">
   <strong>Languages</strong><br>
-  <img src="https://skillicons.dev/icons?i=js,ts,html,css,python,java&theme=light" alt="Languages" /><br><br>
+  <img src="https://skillicons.dev/icons?i=python,bash,c,cpp,js&theme=light" alt="Languages" /><br><br>
 
-  <strong>Frontend</strong><br>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap&theme=light" alt="Frontend" /><br><br>
+  <strong>Security & OS</strong><br>
+  <img src="https://skillicons.dev/icons?i=kali,linux,ubuntu,windows&theme=light" alt="Security & OS" /><br><br>
 
-  <strong>Backend &amp; Databases</strong><br>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mysql,mongodb&theme=light" alt="Backend" /><br><br>
-
-  <strong>Tools</strong><br>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,docker&theme=light" alt="Tools" />
+  <strong>Tools & Cloud</strong><br>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,docker,aws&theme=light" alt="Tools & Cloud" />
 </p>
 
 ---
@@ -78,12 +75,12 @@
 
 ### 🏆 Achievements
 
-- 🥇 [Optional: Add a key achievement or award]
+- 🥇 Ranked top 1% on TryHackMe / HackTheBox
 - 👨‍💻 Built [portfolio](https://github.com/AbhiBofficial/portfolio)
-- 📚 Completed [course/certification name]
+- 📚 Completed CompTIA Security+ / CEH Certification
 
 ---
 
 <div align="center">
-  <em>"Code with passion, build with purpose."</em>
+  <em>"Securing the web one vulnerability at a time."</em>
 </div>
