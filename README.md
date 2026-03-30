@@ -1,6 +1,6 @@
 <div align="center">
-  <h1>Hi, I'm <strong>Abhishek Bansal</strong> 👋</h1>
-  <h3>A Passionate Cybersecurity Enthusiast &amp; Ethical Hacker 🛡️</h3>
+  <h1 align="center">Hi, I'm <strong>Abhishek Bansal</strong> 👋</h1>
+  <h3 align="center">A Passionate Cybersecurity Enthusiast &amp; Ethical Hacker 🛡️</h3>
 
   <a href="https://github.com/AbhiBofficial">
     <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&color=00FF00&width=600&lines=Ethical+Hacker;Penetration+Tester;Cybersecurity+Enthusiast;Securing+the+Web" alt="Typing SVG">
@@ -50,10 +50,8 @@
 <div align="center">
   <strong>Languages</strong><br>
   <img src="https://skillicons.dev/icons?i=python,bash,c,cpp,js&theme=light" alt="Languages" /><br><br>
-
   <strong>Security & OS</strong><br>
   <img src="https://skillicons.dev/icons?i=kali,linux,ubuntu,windows&theme=light" alt="Security & OS" /><br><br>
-
   <strong>Tools & Cloud</strong><br>
   <img src="https://skillicons.dev/icons?i=git,github,vscode,docker,aws&theme=light" alt="Tools & Cloud" />
 </div>
