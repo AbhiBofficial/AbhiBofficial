@@ -1,6 +1,6 @@
 <div align="center">
-  <h1>Hi, I'm <strong>Abhishek Bansal</strong> 👋</h1>
-  <h3>A Passionate Cybersecurity Enthusiast &amp; Ethical Hacker 🛡️</h3>
+  <h1 align="center">Hi, I'm <strong>Abhishek Bansal</strong> 👋</h1>
+  <h3 align="center">A Passionate Cybersecurity Enthusiast &amp; Ethical Hacker 🛡️</h3>
 
   <a href="https://github.com/AbhiBofficial">
     <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&color=00FF00&width=600&lines=Ethical+Hacker;Penetration+Tester;Cybersecurity+Enthusiast;Securing+the+Web" alt="Typing SVG">
@@ -23,9 +23,9 @@
 
 ---
 
-### 🌐 Connect with Me
+<h3 align="center">🌐 Connect with Me</h3>
 
-<p align="center">
+<div align="center">
   <a href="https://github.com/AbhiBofficial" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
@@ -41,35 +41,33 @@
   <a href="https://leetcode.com/abhibofficial" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" />
   </a>
-</p>
+</div>
 
 ---
 
-### 🚀 My Tech Stack
+<h3 align="center">🚀 My Tech Stack</h3>
 
-<p align="center">
+<div align="center">
   <strong>Languages</strong><br>
   <img src="https://skillicons.dev/icons?i=python,bash,c,cpp,js&theme=light" alt="Languages" /><br><br>
-
   <strong>Security & OS</strong><br>
   <img src="https://skillicons.dev/icons?i=kali,linux,ubuntu,windows&theme=light" alt="Security & OS" /><br><br>
-
   <strong>Tools & Cloud</strong><br>
   <img src="https://skillicons.dev/icons?i=git,github,vscode,docker,aws&theme=light" alt="Tools & Cloud" />
-</p>
+</div>
 
 ---
 
-### 📊 GitHub Stats
+<h3 align="center">📊 GitHub Stats</h3>
 
-<p align="center">
+<div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=AbhiBofficial&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=AbhiBofficial&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbhiBofficial&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbhiBofficial&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
   </a>
-</p>
+</div>
 
 ---
 
